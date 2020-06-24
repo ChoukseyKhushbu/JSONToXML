@@ -1,0 +1,12 @@
+{
+  "name": "khushbu",
+  "age": 20,
+  "job": null,
+  "student": true,
+  "nested": {
+    "a": true,
+    "b": "DB",
+    "c": 123
+  },
+  "digits": ["one", 2, "three", null]
+}

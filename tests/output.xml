@@ -1,0 +1,17 @@
+<object>
+    <string name="name">khushbu</string>
+    <number name="age">20</number>
+    <null name="job"/>
+    <boolean name="student">true</boolean>
+    <object name="nested">
+        <boolean name="a">true</boolean>
+        <string name="b">DB</string>
+        <number name="c">123</number>
+    </object>
+    <array name="digits">
+        <string>one</string>
+        <number>2</number>
+        <string>three</string>
+        <null/>
+    </array>
+</object>
